@@ -136,8 +136,8 @@ We need to create API to perform CRUD for Project:
 ### Requirements
 
 - Authentication by secret key in URL;
-- PHP 7.*;
-- Symfony >= 4 (preferable) or plain PHP/any other framework;
+- PHP 8.*;
+- Symfony >= 6 (preferable) or plain PHP/any other framework;
 - Any RDBMS;
 - Add some unit tests to the application (no need to cover all, only show the principles);
 - [You can read more about our PHP projects here](https://aristeksystems.com/technologies/php-development/).
